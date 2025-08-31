@@ -1,62 +1,78 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hi, I’m Giuseppe Randazzo</h1>
 
 ###
 
-<h3 align="left">I'm Giuseppe Randazzo, I specialize in helping individuals and companies bridge the gap between technology and real-world applications.</h3>
+<h3 align="left">
+I specialize in bridging the gap between cutting-edge technology and real-world applications, helping both individuals and companies thrive in Robotics, Industrial Automation, and Quantitative Trading.
+</h3>
 
-###
+---
 
-<h4 align="left"></h4>
+<h2 align="left">🤖 Industrial Automation & Robotics</h2>
 
-###
+<p align="left">
+I’m a robotics and automation expert with over 10 years of experience across aerospace, automotive, space, railway, and manufacturing.
+</p>
 
-<h2 align="left">About me</h2>
+<p align="left">
+🔹 <b>Founder of RoboAccelerator®</b> – A high-impact coaching program that empowers professionals to transition into Robotics & Industrial Automation in just 90 days, even without prior experience.<br>
+🔹 <b>OrbiterCode International Consulting LLC</b> – My consulting firm delivering mission-critical solutions in robotics, PLCs, embedded systems, and AI-driven industrial automation for global companies.
+</p>
 
-###
+<h4 align="left">How I help individuals</h4>
 
-<p align="left">I am a robotics and automation expert with over 10 years of experience, working across aerospace, industrial automation, AI, and financial trading. <br><br>I started programming at 12 years old, and since then, I have developed software and automation solutions for major international companies. <br><br>My expertise spans from low-level coding and embedded systems to high-level AI-driven software architectures, allowing me to bridge the gap between technology and real-world applications.</p>
+<p align="left">
+✔ Hands-on robotics & PLC training, designed to be practical and results-driven.<br>
+✔ Guidance from top industry professionals (ex-Tesla, Boeing, Ferrari).<br>
+✔ A job-ready portfolio to land your first role in automation.
+</p>
 
-###
+<h4 align="left">How I help companies</h4>
 
-<p align="left">🤖 Founder RoboAccelerator® – A high-impact coaching program that empowers professionals to transition into Robotics and Industrial Automation in just 90 days, even without prior experience.</p>
+<p align="left">
+✔ Smart automation solutions to increase efficiency and reduce downtime.<br>
+✔ Robust industrial software architectures for scalability and reliability.<br>
+✔ AI-driven automation to stay ahead of competitors.
+</p>
 
-###
+---
 
-<p align="left">👨🏻‍💻👨🏻‍💻👨🏻‍💻 OrbiterCode Int. Consulting LLC – A consultancy focused on robotics, AI, and embedded systems, delivering cutting-edge solutions for industries like Automotive, Aerospace, Space, Industrial Automation & Railway.</p>
+<h2 align="left">📊 Quant Research & Development</h2>
 
-###
+<p align="left">
+Beyond robotics, I apply my engineering mindset to the world of finance and trading systems.<br>
+My work focuses on <b>quantitative research, algorithmic trading, and high-performance software engineering</b>.
+</p>
 
-<h2 align="left">How My Experience Helps You Achieve Your Goals</h2>
+<p align="left">
+🔹 Development of systematic trading strategies in futures & options.<br>
+🔹 Research on gamma exposure, seasonality, and reinforcement learning models.<br>
+🔹 Advanced work in C++ low-latency trading, MultiCharts .NET (C#), and PineScript.
+</p>
 
-###
+<h4 align="left">My focus areas</h4>
 
-<h3 align="left">For Career Changers & Tech Professionals</h3>
+<p align="left">
+✔ Building robust trading bots and algorithmic strategies.<br>
+✔ Applying machine learning and AI to financial data.<br>
+✔ Creating tools for risk management and portfolio optimization.
+</p>
 
-###
+---
 
-<h6 align="left">If you’re looking to switch to a high-paying career in robotics and automation, my structured approach will help you acquire the right skills quickly and efficiently, even if you start from scratch.</h6>
+<h2 align="left">🌍 Why work with me?</h2>
 
-###
+<p align="left">
+Whether it’s automating a factory or designing a trading algorithm, my strength lies in:
+</p>
 
-<p align="left">Through RoboAccelerator®, you get:<br>✔ Hands-on robotics & PLC training, designed to be practical and results-driven.<br>✔ Guidance from top industry professionals (ex-Tesla, Boeing, Ferrari).<br>✔ A job-ready portfolio to showcase your skills and attract recruiters.<br><br>This program is built for technicians, IT professionals, and career changers who want to enter the automation industry with a clear roadmap and high-impact coaching.</p>
+<ul align="left">
+  <li>Mastery from low-level embedded code to high-level AI architectures.</li>
+  <li>Experience across industries where reliability, precision, and speed are non-negotiable.</li>
+  <li>A proven track record of helping individuals grow and businesses innovate profitably.</li>
+</ul>
 
-###
-
-<h3 align="left">For Businesses & Industrial Leaders</h3>
-
-###
-
-<h6 align="left">If you need to optimize industrial automation, implement robotics, or improve software architectures, my expertise in robotics, PLC programming, AI-driven automation, and financial technology can help you:</h6>
-
-###
-
-<p align="left">✔ Increase efficiency and reduce downtime with smart automation solutions.<br>✔ Develop robust industrial software architectures to scale your operations.<br>✔ Integrate AI-driven automation to stay ahead in the market.<br>✔ Enhance decision-making with AI-driven financial models for cost optimization and risk management.<br><br>With real-world experience in aerospace, railway, industrial automation, and AI-driven financial systems, I provide customized consulting solutions that drive innovation and profitability for your business.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
