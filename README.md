@@ -58,6 +58,36 @@ My work focuses on <b>quantitative research, algorithmic trading, and high-perfo
 ✔ Creating tools for risk management and portfolio optimization.
 </p>
 
+<h2 align="left">📂 Quant Portfolio Projects</h2>
+
+<p align="left">
+The following projects are part of my quantitative finance portfolio.<br>
+The repositories are <b>private</b> to protect intellectual property, but I provide access to recruiters or hiring managers upon request.
+</p>
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Access</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/giusepper91/rl-trading-agents.git">RL Trading Agent</a></td>
+    <td>RL agents with event-driven backtesting and realistic costs</td>
+    <td>🔒 Private (access on request)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/giusepper91/multicharts_signals.git">Multicharts C# Signals</a></td>
+    <td>GRLines, LR, BeBAO </td>
+    <td>🔒 Private (access on request)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/giusepper91/multicharts_indicators.git">Multicharts C# Indicators</a></td>
+    <td>GRLines, PullBack on ST</td>
+    <td>🔒 Private (access on request)</td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="left">🌍 Why work with me?</h2>
